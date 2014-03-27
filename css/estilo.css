@@ -143,12 +143,11 @@
  
 /* Marlon */
 
-
 .count{
 display:inline-block;
 width:120px;
 
-font-size:90%;
+font-size:50%;
 vertical-align: top
 }
 .count ul{
@@ -160,6 +159,20 @@ vertical-align: top
 .count li{
 	display:inline-block;
 	width: 30px;
+}
+
+.cajaViewOffer{
+	width: 40% !important;
+}
+
+@media (min-width: 380px){
+	.count{
+		font-size: 80%;
+	}
+
+	.cajaViewOffer h1{
+		font-size: 80% !important;
+	}
 }
 /* Cierra Marlon */
 
