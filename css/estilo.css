@@ -163,7 +163,7 @@ vertical-align: top
 
 .cajaViewOffer{
 	padding-top: 0px;
-	width: 45% !important;
+	width: 45%;
 }
 
 .cajaViewOffer h1{
@@ -171,7 +171,7 @@ vertical-align: top
 }
 
 .pruebaBtn{
-	width:50% !important; 
+	width:60%; 
 	height: 25px !important;
 	margin-top: 10px !important; 
     padding-left:0px !important; 
@@ -181,7 +181,7 @@ vertical-align: top
     border: 0px !important;
 }
 
-@media (max-width: 380px){
+@media (max-width: 450px){
 	.count{
 		font-size: 65%;
 		width: 100px;
@@ -199,15 +199,14 @@ vertical-align: top
 
 	.cajaViewOffer{
 		padding-top: 10px;
-		width: 60% !important;
 	}
 
 	.cajaViewOffer h1{
-		font-size: 135% !important;
+		font-size: 135%;
 	}
 
 	.pruebaBtn{
-		width: 60% !important;
+		width: 50%;
 		margin-top: 0px !important; 
 		margin-right: 0px !important; 
 	}
