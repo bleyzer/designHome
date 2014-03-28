@@ -147,7 +147,7 @@
 display:inline-block;
 width:120px;
 
-font-size:50%;
+font-size:100%;
 vertical-align: top
 }
 .count ul{
@@ -162,16 +162,54 @@ vertical-align: top
 }
 
 .cajaViewOffer{
+	padding-top: 0px;
 	width: 40% !important;
 }
 
-@media (min-width: 380px){
+.cajaViewOffer h1{
+	font-size: 200%;
+}
+
+.pruebaBtn{
+	width:60% !important; 
+	height: 25px !important;
+	margin-top: 10px !important; 
+    padding-left:0px !important; 
+    padding-right: 0px !important; 
+    margin-right: 10px !important; 
+    border-radius: 2px !important; 
+    border: 0px !important;
+}
+
+@media (max-width: 380px){
 	.count{
-		font-size: 80%;
+		font-size: 65%;
+		width: 100px;
+		padding-left: 5px;
+		padding-top: 5px;
+	}
+
+	.count li{
+		padding-left: 0px !important;	
+	}
+
+	.count ul{
+		padding-left: 0px !important;
+	}
+
+	.cajaViewOffer{
+		padding-top: 10px;
+		width: 50%;
 	}
 
 	.cajaViewOffer h1{
-		font-size: 80% !important;
+		font-size: 135% !important;
+	}
+
+	.pruebaBtn{
+		width: 70%;
+		margin-top: 0px !important; 
+		margin-right: 0px !important; 
 	}
 }
 /* Cierra Marlon */
