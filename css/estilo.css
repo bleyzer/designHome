@@ -171,7 +171,7 @@ vertical-align: top
 }
 
 .pruebaBtn{
-	width:60% !important; 
+	width:50% !important; 
 	height: 25px !important;
 	margin-top: 10px !important; 
     padding-left:0px !important; 
@@ -207,7 +207,7 @@ vertical-align: top
 	}
 
 	.pruebaBtn{
-		width: 70%;
+		width: 60% !important;
 		margin-top: 0px !important; 
 		margin-right: 0px !important; 
 	}
