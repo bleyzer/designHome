@@ -85,10 +85,9 @@
 
 .btn-Down{
 	z-index: 1;
-	position: absolute !important;
 	height:10%;
     width:40%;
-    top: 90% !important;
+    top: 10% !important;
     left: 10%;
     border-radius:0px !important;
     padding-left: 0px !important;
