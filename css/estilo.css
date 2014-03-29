@@ -274,7 +274,10 @@ vertical-align: top
     border: 0px !important;
 }
 
-
+.floatRight{
+	  float: right;
+	  margin-right: 10px !important;
+}
 
 
 
@@ -307,7 +310,7 @@ vertical-align: top
 		width: 50%;
 		height: 25px;
 		margin-top: 0px !important; 
-		margin-right: 0px !important; 
+		margin-right: 15px !important; 
 	}
 	
 	.primerP{
@@ -355,7 +358,7 @@ vertical-align: top
 		width: 50%;
 		height: 20px;
 		margin-top: 0px !important; 
-		margin-right: 0px !important; 
+		margin-right: 15px !important; 
 	}
 
 	.titleSeccion{
@@ -479,8 +482,8 @@ vertical-align: top
 }
 
 .imgListView{
-	width: 20px !important;
-    height: 20px !important;
+	width: 20px;
+    height: 20px;
     padding-bottom: 5px !important;
     padding-top: 5px !important;
 }
