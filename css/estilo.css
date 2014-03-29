@@ -162,10 +162,12 @@
 
 	.primerP{
 		top: 85%;
+		font-size: 200% !important;
 	}
 
 	.segundaP{
 		top: 85%;
+		font-size: 200% !important;
 	}
 
 }
@@ -309,11 +311,13 @@ vertical-align: top
 	}
 	
 	.primerP{
-		top: 88%;
+		top: 85%;
+		font-size: 150% !important;
 	}
 
 	.segundaP{
-		top: 88%;
+		top: 85%;
+		font-size: 150% !important;
 	}
 
 
