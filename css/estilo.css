@@ -195,6 +195,9 @@ vertical-align: top
 .cajaViewOffer{
 	padding-top: 5px;
 	width: 45%;
+	float:right; 
+	vertical-align: bottom; 
+    display: inline;
 }
 
 .cajaViewOffer h1{
@@ -216,7 +219,24 @@ vertical-align: top
 
 .floatRight{
 	  float: right;
-	  margin-right: 10px !important;
+	  margin-right: 10px;
+}
+
+.boxOrangeView{
+	color: #000; 
+    background-color: darkorange;
+    width: 50%; 
+    font-size: 150%;
+    float: right;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-right:20px;
+}
+
+.boxPriceView{
+	color: #f39412; 
+    display: inline; 
+    vertical-align: bottom;
 }
 
 /* @media for tablets: Prueba tablet 7" */
@@ -276,10 +296,32 @@ vertical-align: top
 		font-size: 200% !important;
 	}
 
+	
 }
 
 /* Termina @media para Tablets*/
 
+@media (min-width: 650){
+	.boxOrangeView{
+		font-size: 130%;
+	}
+
+	..boxPriceView{
+		margin-left: 10%;
+	}
+
+}
+
+
+@media (min-width: 550px){
+	.boxOrangeView{
+		font-size: 120%;
+	}
+
+	..boxPriceView{
+		margin-left: 10%;
+	}
+}
 
 
 
