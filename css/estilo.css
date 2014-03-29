@@ -239,7 +239,7 @@ vertical-align: top
 }
 
 .cajaViewOffer{
-	padding-top: 0px;
+	padding-top: 10px;
 	width: 45%;
 }
 
@@ -249,7 +249,7 @@ vertical-align: top
 
 .pruebaBtn{
 	width:60%; 
-	height: 25px !important;
+	height: 30px !important;
 	margin-left: auto !important;
     margin-right: auto !important;
 	margin-top: 5px !important; 
