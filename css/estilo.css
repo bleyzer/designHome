@@ -431,8 +431,8 @@ vertical-align: top
 	}
 	.paddBlack{
 		top: 85%;
-		height: 20%;	
-		padding-top: 5px;
+		height: 15%;
+		padding-top: 2.5px;
 	}
 
 	.contenedor{
@@ -483,6 +483,7 @@ vertical-align: top
 	.boxOrangeView{
 		font-size: 70%;
 		margin-right: 10px;
+		margin-top: 3px;
 	}
 
 }
