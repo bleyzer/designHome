@@ -105,6 +105,25 @@
 
 @media (min-width: 650px){
 
+	.paddBlack{
+		top: 85%;
+	}
+	.cajaViewOffer{
+		padding-top: 10px !important;
+	}
+
+	.contenedor{
+		height: 350px;
+
+	}
+
+	.paddBlack{
+		height: 15%;
+	}
+
+	.content2 h1{
+		font-size: 300%;
+	}
 	.content2 h2{
 		font-size: 200%;
 	}
@@ -231,6 +250,8 @@ vertical-align: top
 .pruebaBtn{
 	width:60%; 
 	height: 25px !important;
+	margin-left: auto !important;
+    margin-right: auto !important;
 	margin-top: 5px !important; 
     padding-left:0px !important; 
     padding-right: 0px !important; 
