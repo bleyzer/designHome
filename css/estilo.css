@@ -307,7 +307,14 @@ vertical-align: top
 		margin-top: 0px !important; 
 		margin-right: 0px !important; 
 	}
+	
+	.primerP{
+		top: 87%;
+	}
 
+	.segundaP{
+		top: 87%;
+	}
 
 
 }
@@ -387,12 +394,12 @@ vertical-align: top
 	}
 
 	.primerP{
-		top: 86.5%;
+		top: 87%;
 		font-size: 100% !important;
 	}
 
 	.segundaP{
-		top: 86.5%;
+		top: 87%;
 		font-size: 100% !important;
 	}
 
